@@ -1,0 +1,15 @@
+apiversion : v1
+
+bla bla 
+
+- name: hazelcast_service_name
+  value: nome
+- name: hazelcast_namespace
+  value: cdbt0-prod
+
+altre info....
+
+fine file! 
+
+
+
